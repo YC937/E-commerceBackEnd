@@ -2,16 +2,15 @@
 
 ## Description
 
-This website 
+This E-commerce Back End application allows the users to track their products with categories' tags and ids. It uses Object-Relational Mapping (ORM). The users are allowed to create, update and delete items from the database.
 
-##
-Screenshot of the webpage:
+## Installation
 
-<img src="./assets/Screenshot.jpg" width= 600px>
+Install MySQL and Express
 
 ## 
 Link to the repository: https://github.com/YC937/EcommerceBackEnd13
 
-Link to the deployed website: 
+
 
 &copy;Copyright YM C
